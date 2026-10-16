@@ -1,0 +1,26 @@
+{
+  "nombre": "",
+  "colores": {
+    "primario": "#000000",
+    "secundario": "#FFFFFF",
+    "acento": "#FF0000"
+  },
+  "tipografias": {
+    "titulos": "",
+    "texto": ""
+  },
+  "logo": {
+    "archivo": "marca/logos/logo.png",
+    "posicion": "arriba-derecha",
+    "tamano": 0.12,
+    "opacidad": 1.0
+  },
+  "subtitulos": {
+    "tipografia": "",
+    "color": "#FFFFFF",
+    "fondo": "#00000080",
+    "posicion": "abajo"
+  },
+  "intro": "",
+  "outro": ""
+}

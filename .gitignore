@@ -1,0 +1,29 @@
+# Lista blanca: se ignora todo y solo se publica la base del editor.
+# Los negocios reales, las claves y las skills de terceros nunca entran en el repositorio.
+/*
+!/.gitignore
+!/.gitattributes
+!/CLAUDE.md
+!/README.md
+!/LICENSE
+!/instalar.ps1
+!/instalar.sh
+!/herramientas/
+
+# De negocios/ solo se publica la plantilla
+!/negocios/
+/negocios/*
+!/negocios/_plantilla/
+
+# temp/ existe, pero vacío
+!/temp/
+/temp/*
+!/temp/.gitkeep
+
+# Por si acaso, en cualquier carpeta
+.env
+*.env
+node_modules/
+.hyperframes/
+.DS_Store
+Thumbs.db
