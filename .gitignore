@@ -9,6 +9,7 @@
 !/instalar.ps1
 !/instalar.sh
 !/herramientas/
+!/docs/
 
 # De negocios/ solo se publica la plantilla
 !/negocios/

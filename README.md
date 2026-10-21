@@ -55,6 +55,10 @@ Abre la carpeta en Claude Code y dile, por ejemplo:
 Claude copiará la plantilla y te pedirá lo que necesita: a qué se dedica el negocio, su público, su tono, los logos, los colores y las tipografías.
 
 ## Cómo se usa
+
+📖 **[Manual de uso completo](docs/manual-de-uso.md)**: cómo abrir el editor en Claude Code, cómo hacer una petición paso a paso, el prompt maestro, consejos de formato y diseño, y problemas frecuentes.
+
+Resumen rápido:
 | Quieres… | Dile a Claude… |
 | --- | --- |
 | Dar de alta un negocio | "Crea el negocio X". Después, pásale su guía de marca, sus logos y sus tipografías. |

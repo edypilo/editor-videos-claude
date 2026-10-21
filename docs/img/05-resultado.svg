@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="ui-monospace, Consolas, Menlo, monospace">
+  <rect width="800" height="380" fill="#f4f1ec"/>
+  <rect x="30" y="20" width="740" height="340" rx="12" fill="#ffffff" stroke="#d9d4cc"/>
+  <g font-size="14" fill="#3d372f">
+    <text x="60" y="58">📁 Editor de Videos</text>
+    <text x="84" y="86">📁 negocios</text>
+    <text x="108" y="114">📁 panaderia-sol</text>
+    <text x="132" y="142" fill="#9a9285">📄 CLAUDE.md · marca.json · aprendizajes.md</text>
+    <text x="132" y="170">📁 proyectos</text>
+    <text x="156" y="198" font-weight="700" fill="#2b2620">📁 2026-10-21_masa-madre</text>
+    <text x="180" y="226">📁 brutos      <tspan fill="#9a9285">← tu vídeo original, sin tocar</tspan></text>
+    <text x="180" y="254">📁 trabajo     <tspan fill="#9a9285">← montaje, transcripción, stock</tspan></text>
+    <text x="180" y="282">📁 exportados</text>
+    <rect x="198" y="292" width="368" height="28" rx="6" fill="#fbe9e2" stroke="#d97757" stroke-width="2"/>
+    <text x="210" y="311" font-weight="700" fill="#2b2620">🎬 masa-madre_9x16.mp4  ← ¡listo!</text>
+    <text x="180" y="344" fill="#9a9285">📄 proyecto.json  ← resumen del proyecto</text>
+  </g>
+  <text x="400" y="374" font-size="11" fill="#9a9285" text-anchor="middle" font-family="system-ui, -apple-system, Segoe UI, sans-serif">Ilustración esquemática · El vídeo final queda en exportados/ del proyecto</text>
+</svg>

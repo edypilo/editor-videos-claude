@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+  <rect width="800" height="400" fill="#f4f1ec"/>
+  <rect x="30" y="20" width="740" height="360" rx="12" fill="#ffffff" stroke="#d9d4cc"/>
+  <text x="56" y="56" font-size="13" fill="#9a9285">Editor de Videos · sesión nueva</text>
+  <line x1="30" y1="70" x2="770" y2="70" stroke="#eee9e1"/>
+  <text x="400" y="128" font-size="15" fill="#b3ab9f" text-anchor="middle">¿Qué vídeo hacemos hoy?</text>
+  <!-- cuadro de mensaje -->
+  <rect x="60" y="176" width="680" height="170" rx="14" fill="#ffffff" stroke="#d97757" stroke-width="2"/>
+  <g font-size="14" fill="#2b2620">
+    <text x="84" y="208"><tspan font-weight="700">Para Panadería Sol:</tspan> reel 9:16 de unos 30 s con</text>
+    <text x="84" y="230">C:\Users\yo\Videos\masa_madre.mp4 (es la dueña explicando el pan</text>
+    <text x="84" y="252">de masa madre). Estilo de nuestros vídeos de referencia. Recorta</text>
+    <text x="84" y="274">silencios, subtítulos, rótulo "Pan de masa madre" y cierre con logo</text>
+    <text x="84" y="296">y WhatsApp. Sin música. Puedes transcribir con Parakeet.</text>
+  </g>
+  <circle cx="712" cy="318" r="16" fill="#d97757"/>
+  <path d="M705 318 h12 M712 312 l6 6 -6 6" stroke="#ffffff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- etiquetas -->
+  <g font-size="12" font-weight="700">
+    <rect x="84" y="148" width="86" height="22" rx="11" fill="#fbe9e2"/><text x="127" y="163" fill="#b4532f" text-anchor="middle">NEGOCIO</text>
+    <rect x="178" y="148" width="90" height="22" rx="11" fill="#e6f0fb"/><text x="223" y="163" fill="#2e6aa8" text-anchor="middle">MATERIAL</text>
+    <rect x="276" y="148" width="86" height="22" rx="11" fill="#e8f5ea"/><text x="319" y="163" fill="#2f7d3c" text-anchor="middle">FORMATO</text>
+    <rect x="370" y="148" width="74" height="22" rx="11" fill="#f3e8fb"/><text x="407" y="163" fill="#7a3fa8" text-anchor="middle">ESTILO</text>
+    <rect x="452" y="148" width="104" height="22" rx="11" fill="#fff4d6"/><text x="504" y="163" fill="#8a6500" text-anchor="middle">CONTENIDO</text>
+    <rect x="564" y="148" width="70" height="22" rx="11" fill="#eeeeee"/><text x="599" y="163" fill="#555" text-anchor="middle">AUDIO</text>
+  </g>
+  <text x="400" y="372" font-size="11" fill="#9a9285" text-anchor="middle">Ilustración esquemática · Una buena petición dice negocio, material, formato, estilo, contenido y audio</text>
+</svg>
